@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Leapsup_ViewEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a980ca56-8cc6-49f2-b4bc-4b52d45afddb</testCaseGuid>
+</TestCaseEntity>

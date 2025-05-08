@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginVariable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63b598b6-2b08-43a1-a30f-f51ab3643711</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26fe743d-d932-49a8-9ad8-c23f9138645e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8d4e9de-3215-4ed6-852d-2151e1ff420e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'practice'</defaultValue>
+      <description></description>
+      <id>26fe743d-d932-49a8-9ad8-c23f9138645e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'SuperSecretPassword!'</defaultValue>
+      <description></description>
+      <id>d8d4e9de-3215-4ed6-852d-2151e1ff420e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
